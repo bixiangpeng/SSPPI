@@ -1,4 +1,4 @@
-# SSPPI (Continuously Updating)
+# SSPPI (Continuously Updating......)
 ---
 A repo for "SSPPI: Cross-modality enhanced protein-protein interaction prediction from sequence and structure perspectives".
 
