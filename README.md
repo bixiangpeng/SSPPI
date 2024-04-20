@@ -26,7 +26,7 @@ A repo for "SSPPI: Cross-modality enhanced protein-protein interaction predictio
 
 
 
-![SSPPI architecture](https://github.com/bixiangpeng/SSPPI/blob/main/Framework.png)
+![SSPPI architecture](https://github.com/bixiangpeng/SSPPI/blob/main/framework.png)
 
 
 ## Requirements
