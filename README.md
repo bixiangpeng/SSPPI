@@ -87,9 +87,9 @@ Recent advances have shown great promise in mining multi-modal protein knowledge
 <a name="pretrained-models"></a>
    | Datasets | Pre-trained models          | Description |
    |:-----------:|:-----------------------------:|:--------------|
-   | Yeast    | [model](https://github.com/bixiangpeng/SSPPI/model_pkl/yeast/model.pkl)  | The pretrained model parameters on the Yeast. |
-   | Multi-species     | [model_01](https://github.com/bixiangpeng/SSPPI/model_pkl/multi_species/model_01.pkl) &nbsp; , &nbsp; [model_10](https://github.com/bixiangpeng/SSPPI/model_pkl/multi_species/model_10.pkl) &nbsp; , &nbsp; [model_25](https://github.com/bixiangpeng/SSPPI/model_pkl/multi_species/model_25.pkl) &nbsp; , &nbsp; [model_40](https://github.com/bixiangpeng/SSPPI/model_pkl/multi_species/model_40.pkl)  &nbsp; , &nbsp; [model_any](https://github.com/bixiangpeng/SSPPI/model_pkl/multi_species/model_any.pkl)      | The Pretrained model parameters on the Multi-species under different sequence identities. |
-   | Multi-class    | [model](https://github.com/bixiangpeng/SSPPI/model_pkl/multi_class/model.pkl)   | The pretrained model parameters on the Multi-class dataset. |
+   | Yeast    | [model](https://github.com/bixiangpeng/SSPPI/blob/main/model_pkl/yeast/model.pkl) | The pretrained model parameters on the Yeast. |
+   | Multi-species     | [model_01](https://github.com/bixiangpeng/SSPPI/blob/main/model_pkl/multi_species/model_01.pkl) &nbsp; , &nbsp; [model_10](https://github.com/bixiangpeng/SSPPI/blob/main/model_pkl/multi_species/model_10.pkl) &nbsp; , &nbsp; [model_25](https://github.com/bixiangpeng/SSPPI/blob/main/model_pkl/multi_species/model_25.pkl) &nbsp; , &nbsp; [model_40](https://github.com/bixiangpeng/SSPPI/blob/main/model_pkl/multi_species/model_40.pkl)  &nbsp; , &nbsp; [model_any](https://github.com/bixiangpeng/SSPPI/blob/main/model_pkl/multi_species/model_any.pkl)      | The Pretrained model parameters on the Multi-species under different sequence identities. |
+   | Multi-class    | [model](https://github.com/bixiangpeng/SSPPI/blob/main/model_pkl/multi_class/model.pkl)   | The pretrained model parameters on the Multi-class dataset. |
   
    Based on these pre-trained models, you can perform PPI predictions by simply running the following command:
    ```text
