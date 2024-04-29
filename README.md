@@ -46,7 +46,7 @@ Recent advances have shown great promise in mining multi-modal protein knowledge
 
    1. __Download processed data__
    
-      The data file (`data.zip`) of these three datasets can be downloaded from this [link](https://drive.google.com/file/). Uncompress this file to get a 'data' folder containing all the original data and processed data.
+      The data file (`data.zip`) of these three datasets can be downloaded from this [link](https://pan.baidu.com/s/1KI4DrDVXInQaM5Wv1_0NSw?pwd=6shz). Uncompress this file to get a 'data' folder containing all the original data and processed data.
       
       🌳 Replacing the original 'data' folder by this new folder and then you can re-train or test our proposed model on Yeast, Multi-species or Multi-class.  
       
